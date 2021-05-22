@@ -1,4 +1,4 @@
-getgenv().toggle = true
+
 while getgenv().toggle do
     local Codes = {
   "unusualbias",
